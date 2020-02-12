@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 file3 is the money file 
-=======
 this is a file 3 edit
->>>>>>> first_b
